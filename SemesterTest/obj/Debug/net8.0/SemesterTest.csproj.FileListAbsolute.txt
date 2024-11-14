@@ -1,0 +1,14 @@
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\bin\Debug\net8.0\SemesterTest.exe
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\bin\Debug\net8.0\SemesterTest.deps.json
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\bin\Debug\net8.0\SemesterTest.runtimeconfig.json
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\bin\Debug\net8.0\SemesterTest.dll
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\bin\Debug\net8.0\SemesterTest.pdb
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\obj\Debug\net8.0\SemesterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\obj\Debug\net8.0\SemesterTest.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\obj\Debug\net8.0\SemesterTest.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\obj\Debug\net8.0\SemesterTest.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\obj\Debug\net8.0\SemesterTest.dll
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\obj\Debug\net8.0\refint\SemesterTest.dll
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\obj\Debug\net8.0\SemesterTest.pdb
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\obj\Debug\net8.0\SemesterTest.genruntimeconfig.cache
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\SemesterTest\obj\Debug\net8.0\ref\SemesterTest.dll

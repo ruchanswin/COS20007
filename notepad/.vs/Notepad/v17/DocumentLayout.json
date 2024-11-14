@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\replaceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:replaceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\findform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:findform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\findform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:findform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\replaceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:replaceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\referenceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:referenceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\findform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:findform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\replaceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:replaceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\referenceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:referenceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\referenceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:referenceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{E28BF287-08D4-435A-BAF6-77FF5CF0A4E0}|Notepad.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReferenceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ReferenceForm.cs",
+              "RelativeDocumentMoniker": "ReferenceForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ReferenceForm.cs [Design]",
+              "RelativeToolTip": "ReferenceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:31:33.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\FindForm.Designer.cs",
+              "RelativeDocumentMoniker": "FindForm.Designer.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\FindForm.Designer.cs",
+              "RelativeToolTip": "FindForm.Designer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwE4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:52:43.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReplaceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ReplaceForm.cs",
+              "RelativeDocumentMoniker": "ReplaceForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ReplaceForm.cs [Design]",
+              "RelativeToolTip": "ReplaceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:55:03.359Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReplaceForm.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ReplaceForm.cs",
+              "RelativeDocumentMoniker": "ReplaceForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ReplaceForm.cs",
+              "RelativeToolTip": "ReplaceForm.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:55:06.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindForm.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\FindForm.cs",
+              "RelativeDocumentMoniker": "FindForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\FindForm.cs",
+              "RelativeToolTip": "FindForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:52:12.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAwwCkBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:56:08.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FindForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\FindForm.cs",
+              "RelativeDocumentMoniker": "FindForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\FindForm.cs [Design]",
+              "RelativeToolTip": "FindForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:31:19.984Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReferenceForm.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ReferenceForm.cs",
+              "RelativeDocumentMoniker": "ReferenceForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ReferenceForm.cs",
+              "RelativeToolTip": "ReferenceForm.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:53:16.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReplaceForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ReplaceForm.Designer.cs",
+              "RelativeDocumentMoniker": "ReplaceForm.Designer.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ReplaceForm.Designer.cs",
+              "RelativeToolTip": "ReplaceForm.Designer.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAADwv38AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:55:40.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:41:16.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:56:01.169Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALMCAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:11:32.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReferenceForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ReferenceForm.Designer.cs",
+              "RelativeDocumentMoniker": "ReferenceForm.Designer.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ReferenceForm.Designer.cs",
+              "RelativeToolTip": "ReferenceForm.Designer.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAiwKIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T03:53:58.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\notepad\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-06-02T03:19:43.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

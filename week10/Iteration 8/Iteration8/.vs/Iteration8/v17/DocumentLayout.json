@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\iteration 8\\iteration8\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|solutionrelative:move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|solutionrelative:location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|solutionrelative:path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|solutionrelative:players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\commandprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|solutionrelative:commandprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\look.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|solutionrelative:look.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|solutionrelative:items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\ihaveinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|solutionrelative:ihaveinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365FEC2B-1C7E-4A68-98A7-AE28E5326264}|Iteration8.csproj|solutionrelative:bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Move.cs",
+              "RelativeDocumentMoniker": "Move.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Move.cs",
+              "RelativeToolTip": "Move.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:32:49.837Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Players.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Players.cs",
+              "RelativeDocumentMoniker": "Players.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Players.cs",
+              "RelativeToolTip": "Players.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:36:52.69Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:29:45.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Items.cs",
+              "RelativeDocumentMoniker": "Items.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Items.cs",
+              "RelativeToolTip": "Items.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:48:46.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Location.cs",
+              "RelativeDocumentMoniker": "Location.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Location.cs",
+              "RelativeToolTip": "Location.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:37:00.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IHaveInventory.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\IHaveInventory.cs",
+              "RelativeDocumentMoniker": "IHaveInventory.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\IHaveInventory.cs",
+              "RelativeToolTip": "IHaveInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:34:51.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Look.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Look.cs",
+              "RelativeDocumentMoniker": "Look.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Look.cs",
+              "RelativeToolTip": "Look.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwCsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:32:57.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\CommandProcessor.cs",
+              "RelativeDocumentMoniker": "CommandProcessor.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\CommandProcessor.cs",
+              "RelativeToolTip": "CommandProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:32:24.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Path.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Path.cs",
+              "RelativeDocumentMoniker": "Path.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Path.cs",
+              "RelativeToolTip": "Path.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:49:40.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:51:40.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameObject.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\GameObject.cs",
+              "RelativeToolTip": "GameObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:51:54.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bag.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Bag.cs",
+              "RelativeDocumentMoniker": "Bag.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8\\Bag.cs",
+              "RelativeToolTip": "Bag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:37:02.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

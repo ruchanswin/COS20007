@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\iteration 8\\iteration8test\\movetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|solutionrelative:movetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\locationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|solutionrelative:locationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\pathtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|solutionrelative:pathtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\bagtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|solutionrelative:bagtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\looktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|solutionrelative:looktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\playerstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|solutionrelative:playerstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\inventorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|solutionrelative:inventorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\itemstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F22A7C-56AA-4473-BDA3-E4EB14CCD860}|Iteration8Test.csproj|solutionrelative:itemstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PathTest.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\PathTest.cs",
+              "RelativeDocumentMoniker": "PathTest.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\PathTest.cs",
+              "RelativeToolTip": "PathTest.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:10:45.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayersTest.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\PlayersTest.cs",
+              "RelativeDocumentMoniker": "PlayersTest.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\PlayersTest.cs",
+              "RelativeToolTip": "PlayersTest.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEgAAACtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:09:57.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LookTest.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\LookTest.cs",
+              "RelativeDocumentMoniker": "LookTest.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\LookTest.cs",
+              "RelativeToolTip": "LookTest.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowE0AAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:09:45.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemsTest.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\ItemsTest.cs",
+              "RelativeDocumentMoniker": "ItemsTest.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\ItemsTest.cs",
+              "RelativeToolTip": "ItemsTest.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:09:30.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\InventoryTest.cs",
+              "RelativeDocumentMoniker": "InventoryTest.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\InventoryTest.cs",
+              "RelativeToolTip": "InventoryTest.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:09:07.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BagTest.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\BagTest.cs",
+              "RelativeDocumentMoniker": "BagTest.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\BagTest.cs",
+              "RelativeToolTip": "BagTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:08:47.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoveTest.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\MoveTest.cs",
+              "RelativeDocumentMoniker": "MoveTest.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\MoveTest.cs",
+              "RelativeToolTip": "MoveTest.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwDEAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:02:57.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocationTest.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\LocationTest.cs",
+              "RelativeDocumentMoniker": "LocationTest.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week10\\Iteration 8\\Iteration8Test\\LocationTest.cs",
+              "RelativeToolTip": "LocationTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:00:27.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

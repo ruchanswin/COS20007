@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\iteration 3\\iteration3\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\iteration 3\\iteration3\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|solutionrelative:identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\iteration 3\\iteration3\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\iteration 3\\iteration3\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|solutionrelative:items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\iteration 3\\iteration3\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|solutionrelative:bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\iteration 3\\iteration3\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|solutionrelative:players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\iteration 3\\iteration3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614AF9AB-6F45-4ACF-A5BD-6180451711C3}|Iteration3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Players.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\Players.cs",
+              "RelativeDocumentMoniker": "Players.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\Players.cs",
+              "RelativeToolTip": "Players.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:27:52.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bag.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\Bag.cs",
+              "RelativeDocumentMoniker": "Bag.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\Bag.cs",
+              "RelativeToolTip": "Bag.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:24:39.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\Items.cs",
+              "RelativeDocumentMoniker": "Items.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\Items.cs",
+              "RelativeToolTip": "Items.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:24:11.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAswEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:24:10.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentifiableObject.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\IdentifiableObject.cs",
+              "RelativeDocumentMoniker": "IdentifiableObject.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\IdentifiableObject.cs",
+              "RelativeToolTip": "IdentifiableObject.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:24:06.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameObject.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\GameObject.cs",
+              "RelativeToolTip": "GameObject.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:23:56.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\sem1 2024\\cos20007\\week5\\Iteration 3\\Iteration3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:21:01.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

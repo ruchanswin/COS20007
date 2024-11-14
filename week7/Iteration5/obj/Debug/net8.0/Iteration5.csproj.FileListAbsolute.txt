@@ -1,0 +1,14 @@
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\bin\Debug\net8.0\Iteration5.exe
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\bin\Debug\net8.0\Iteration5.deps.json
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\bin\Debug\net8.0\Iteration5.runtimeconfig.json
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\bin\Debug\net8.0\Iteration5.dll
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\bin\Debug\net8.0\Iteration5.pdb
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\obj\Debug\net8.0\Iteration5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\obj\Debug\net8.0\Iteration5.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\obj\Debug\net8.0\Iteration5.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\obj\Debug\net8.0\Iteration5.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\obj\Debug\net8.0\Iteration5.dll
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\obj\Debug\net8.0\refint\Iteration5.dll
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\obj\Debug\net8.0\Iteration5.pdb
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\obj\Debug\net8.0\Iteration5.genruntimeconfig.cache
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\week7\Iteration5\obj\Debug\net8.0\ref\Iteration5.dll

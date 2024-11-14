@@ -1,0 +1,14 @@
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\bin\Debug\net8.0\QueueApplication.exe
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\bin\Debug\net8.0\QueueApplication.deps.json
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\bin\Debug\net8.0\QueueApplication.runtimeconfig.json
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\bin\Debug\net8.0\QueueApplication.dll
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\bin\Debug\net8.0\QueueApplication.pdb
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\obj\Debug\net8.0\QueueApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\obj\Debug\net8.0\QueueApplication.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\obj\Debug\net8.0\QueueApplication.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\obj\Debug\net8.0\QueueApplication.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\obj\Debug\net8.0\QueueApplication.dll
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\obj\Debug\net8.0\refint\QueueApplication.dll
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\obj\Debug\net8.0\QueueApplication.pdb
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\obj\Debug\net8.0\QueueApplication.genruntimeconfig.cache
+C:\Users\nguye\OneDrive\Máy tính\sem1 2024\cos20007\ConsoleApp3\obj\Debug\net8.0\ref\QueueApplication.dll

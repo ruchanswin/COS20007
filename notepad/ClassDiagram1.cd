@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Notepad.Form1">
+    <Position X="12.75" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>DajFPn2gR6yVCJkKFaXcmCMKzJFLkt7iJzYwhLAAhrk=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Notepad.FindForm">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAQQACAAABEAAACBAAACAAAAAACAAAAAAEAAAAA=</HashCode>
+      <FileName>FindForm.cs</FileName>
+      <NewMemberFileName>findForm.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Notepad.ReferenceForm">
+    <Position X="19" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAQCAAABAAAACAAMgCAIAYAACAAAMAAFACAAA=</HashCode>
+      <FileName>ReferenceForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Notepad.ReplaceForm">
+    <Position X="21" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAAACAAABEAAACBAAgCAAABAAAACAAABEIAAAA=</HashCode>
+      <FileName>ReplaceForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
